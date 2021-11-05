@@ -2,3 +2,5 @@
 Network Synthesis of sensor node network
 
 View most recent file for final version, titled "EE_134_project_network_synthesis_group_final.ipynb"
+
+Group Members: Melody Griffith, Richard Woo, Kaleb Cole-Wood
